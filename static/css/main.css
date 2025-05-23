@@ -1,0 +1,45 @@
+table,
+td,
+th {
+    border: 3px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    font-size: 40px;
+    width: 50%;
+    margin: auto;
+}
+
+input[type=text] {
+    display: block;
+    margin: .2cm auto .1cm auto;
+    width: 40%;
+    padding: .3cm;
+}
+
+input[type=submit] {
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+    font-size: larger;
+    display: block;
+    margin: 0cm auto;
+}
+
+table {
+    width: 50%;
+    margin: 1cm auto;
+
+}
+
+.appName {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    width: 50%;
+    margin: auto;
+}
