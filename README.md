@@ -49,9 +49,8 @@ taskmaster/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/taskmaster.git
-   cd taskmaster
-   ```
+   git clone https://github.com/](https://github.com/ThisIsHegazi/task_master_flask.git
+   cd task_master_flask
 
 2. **Create a virtual environment**
    ```bash
