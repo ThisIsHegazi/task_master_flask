@@ -2,14 +2,6 @@
 
 A clean, lightweight task management web app built with **Flask** and **SQLite**. Add, update, and delete tasks with a simple and intuitive interface.
 
----
-
-## 🖼️ Preview
-
-> _Add a screenshot of your app here_
-
----
-
 ## 🚀 Features
 
 - ➕ Add new tasks instantly
